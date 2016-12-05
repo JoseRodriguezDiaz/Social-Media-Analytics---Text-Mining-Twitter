@@ -1,2 +1,2 @@
-# Social-Media-Analytics---Text-Mining-Twitter
+#Social Media Analytics - Text Mining Twitter
 Text Mining Twitter
